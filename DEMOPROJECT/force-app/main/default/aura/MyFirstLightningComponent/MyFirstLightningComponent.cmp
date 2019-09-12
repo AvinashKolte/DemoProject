@@ -1,3 +1,4 @@
 <aura:component>
 Hi Welcome to First Lightning Component!
+Second Line in Component!
 </aura:component>	
